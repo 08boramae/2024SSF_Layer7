@@ -1,0 +1,19 @@
+{
+    "name": "name",
+    "description": "description",
+    "version": "1.0",
+    "manifest_version": 3,
+    "host_permissions": [
+      "http://127.0.0.1:8080/*"
+    ],
+    "content_scripts": [
+      {
+        "matches": [
+          "*://*/*"
+        ],
+        "js": [
+          "script.js"
+        ]
+      }
+    ]
+  }
