@@ -13,7 +13,7 @@ Load unpacked<br>
 
 서버와 확장 프로그램이 켜진 상태로 사이트에 들어가서 키 누를 시 아래와 같이 서버에서 확인 가능
 <img width="524" alt="Screenshot 2024-07-25 at 8 27 10 PM" src="https://github.com/user-attachments/assets/a190ca05-4353-44c3-8bfb-3030afe7ba87"><br>
-로그:
-<img width="571" alt="Screenshot 2024-07-25 at 8 28 01 PM" src="https://github.com/user-attachments/assets/f3b14937-21ce-4b99-b4db-6baf942d5c4a">
+로그:<br>
+<img width="659" alt="Screenshot 2024-08-22 at 4 22 19 PM" src="https://github.com/user-attachments/assets/acf2a11f-13f9-4276-b3bb-bb02abcd1424">
 
 실제 사용 시 크롬 확장 프로그램 코드에 들어가있는 서버 주소 변경 필요
